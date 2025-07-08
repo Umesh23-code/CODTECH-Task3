@@ -22,14 +22,14 @@ Technology	18.45K	~6.44%<br>
 
 🔎 Insight: Although Technology is usually high-margin, here it contributes the least profit, which may warrant a pricing or cost review.<br>
 
-🌍** Sales by Region**<br>
+🌍**Sales by Region**<br>
 West is the top-performing region by sales.<br>
 
 South lags behind all other regions.<br>
 
 💡 Actionable Insight: Marketing or distribution strategies in the South region might need improvement.<br>
 
-📅 Sales Trend Over Time<br>
+📅**Sales Trend Over Time**<br>
 A visible upward trend from 2014 to 2017.<br>
 
 Peaks in 2016 and late 2017, suggesting strong seasonal or Q4 performance.<br>
@@ -51,7 +51,7 @@ Bookcases – -3.47K<br>
 
 📉 Concern: Bookcases are operating at a loss. Either costs are too high, or demand is too low. Reevaluate pricing, suppliers, or customer demand.<br>
 
-📌** Geographical Performance**<br>
+📌**Geographical Performance**<br>
 From the map:<br>
 
 Most sales activity is concentrated in North America.<br>
