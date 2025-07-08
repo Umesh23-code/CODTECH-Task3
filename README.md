@@ -5,16 +5,16 @@ Domain:Data Analytics<br>
 Duration:5th June to 5th August 2025<br>
 Mentor:Neela Santosh Kumar<br>
 
-An interactive Power BI dashboard analyzing 9,994 orders from 793 customers across different segments, regions, and product categories.<br>
+**An interactive Power BI dashboard analyzing 9,994 orders from 793 customers across different segments, regions, and product categories**<br>
 
-High-Level Metrics<br>
-Total Sales: $2.30M<br>
+**High-Level Metrics**<br>
+**Total Sales: $2.30M**<br>
 
-Total Profit: $286.40K<br>
+**Total Profit: $286.40K**<br>
 
 This gives an overall profit margin of about 12.45%, which is decent but leaves room for improvement.<br>
 
-📊 Profit by Category<br>
+📊 **Profit by Category**<br>
 Category	Profit	% of Total Profit<br>
 Furniture	145.45K	~50.79%<br>
 Office Supplies	122.49K	~42.77%<br>
@@ -22,7 +22,7 @@ Technology	18.45K	~6.44%<br>
 
 🔎 Insight: Although Technology is usually high-margin, here it contributes the least profit, which may warrant a pricing or cost review.<br>
 
-🌍 Sales by Region<br>
+🌍** Sales by Region**<br>
 West is the top-performing region by sales.<br>
 
 South lags behind all other regions.<br>
@@ -36,8 +36,8 @@ Peaks in 2016 and late 2017, suggesting strong seasonal or Q4 performance.<br>
 
 📌 Tip: Investigate what drove the spike—discounts, campaigns, or new product launches?<br>
 
-🧾 Sub-Category Wise Profit<br>
-Top 3 profitable sub-categories:<br>
+🧾 **Sub-Category Wise Profit**<br>
+**Top 3 profitable sub-categories**:<br>
 
 Copiers – 55.6K<br>
 
@@ -51,14 +51,14 @@ Bookcases – -3.47K<br>
 
 📉 Concern: Bookcases are operating at a loss. Either costs are too high, or demand is too low. Reevaluate pricing, suppliers, or customer demand.<br>
 
-📌 Geographical Performance<br>
+📌** Geographical Performance**<br>
 From the map:<br>
 
 Most sales activity is concentrated in North America.<br>
 
 Cities like New York, San Francisco, and Seattle likely contribute significantly.<br>
 
-🎯 Final Recommendations
+🎯 **Final Recommendations**
 Reassess Technology margins – It’s underperforming in profit contribution.<br>
 
 Revamp strategies for South region – Possibly under-marketed or poorly serviced.<br>
